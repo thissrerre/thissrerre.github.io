@@ -15,7 +15,7 @@ const parameters = [
   {
     key: "premium",
     desc: "Select premium VPN only",
-    isMultiple: false,
+    isMultiple: true,
     example: "&premium=1",
   },
   {
